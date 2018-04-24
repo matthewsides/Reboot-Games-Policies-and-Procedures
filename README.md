@@ -9,11 +9,11 @@
 
 [1] Introduction
 
-- Overview
+-Overview
 
 -Policy and procedure review
 
-- Change History
+-Change History
 
 [2] Access controls
 
