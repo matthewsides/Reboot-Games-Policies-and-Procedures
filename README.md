@@ -37,6 +37,7 @@ some idea of hardware software
 
 #### Scope
 
+This documentation is meant to be read by the employees under the organisation RebootGames. An information and technology company under the guise of Games design.
 
 #### Reboot Games
 
