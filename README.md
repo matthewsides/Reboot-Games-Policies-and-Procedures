@@ -1,2 +1,2 @@
 
- <font color="red"> ### Reboot Games Policies and Procedures </font> 
+ <font color="red"> Reboot Games Policies and Procedures </font> 
