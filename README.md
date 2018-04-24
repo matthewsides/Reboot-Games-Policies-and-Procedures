@@ -1,2 +1,2 @@
 
- <font color="red"> Reboot Games Policies and Procedures </font> 
+color.Red("Reboot Games Policies and Procedures")
