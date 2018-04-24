@@ -2,9 +2,8 @@
 
 
 
-<p align="justify">
-  Table of Contents
-</p>
+ -> Table of Contents  <-
+
 
 
 [1] Introduction
