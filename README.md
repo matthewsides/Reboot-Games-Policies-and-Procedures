@@ -1,4 +1,2 @@
-```diff
- - Reboot Games Policies and Procedures
 
-```
+ <font color="red"> ### Reboot Games Policies and Procedures </font> 
