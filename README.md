@@ -47,6 +47,10 @@ Reboot Games comprises of two levels of access, Tutor and Student. The two level
 
 #### Hardware & Software
 
+LG Monitor
+
+Dell System
+
 OS - Windows 10 - Edition Enterprise 2016 LTSB
 
 Processor - Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz 3.60GHz
