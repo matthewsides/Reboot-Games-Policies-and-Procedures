@@ -47,7 +47,7 @@ Reboot Games comprises of two levels of access, Tutor and Student. The two level
 
 #### Hardware & Software 
 
-LG Monitor
+LG - 29UM68-P - 29" 21:9 UltraWide® Full HD IPS LED Monitor (29" Diagonal)
 
 System - DELL XPS 8920 3GHz i5-7400 Tower Black PC HN7RP
 
