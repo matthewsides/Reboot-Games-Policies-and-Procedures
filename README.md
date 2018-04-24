@@ -43,9 +43,17 @@ This documentation is meant to be read by the employees under the organisation R
 
 #### Structure
 
-Reboot Games comprises of two levels of access, Tutor and Student. The two levels are coequal or equipotent in a Hierachy, exempt a few rules.  The numerical value of tutors tallys to three, whilst the number of students amounts to thirteen. 
+Reboot Games comprises of two levels of access, Tutor and Student. The two levels are coequal or equipotent in a Hierachy, exempt a few rules.  The numerical value of tutors tallys to three, whilst the number of students amounts to thirteen.  
 
 #### Hardware & Software
+
+OS - Windows 10 - Edition Enterprise 2016 LTSB
+
+Processor - Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz 3.60GHz
+
+Installed RAM - 16.0 GB
+
+System type - 64-bit operating system, x64-based processor 
 
 #### Change History
 
