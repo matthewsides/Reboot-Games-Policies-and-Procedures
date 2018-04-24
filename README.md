@@ -8,17 +8,19 @@
 
 [1] Introduction
 
-    -Structure
-
-    -Overview
+    -Scope
+   
+    -Reboot Games
     
-    -Policy and procedure review
+    -Structure
+    
+    -Hardware & Software
 
     -Change History 
 
 [2] Identified Risks
 
-[3]
+[3] Policies & procedures
 
 [4]
 
@@ -32,20 +34,26 @@ some idea of hardware software
 
  #### [1] Introduction
 
-Information management is a crucial component in modern business. The Creation, management and security for the computer and network systems on which Rebootgames resides is the responsibility of Reboot's staff or more specifically the Information Technology department. To better fulfill the duties and responsibilities inherent in that responsibility, the department has created these policies and procedures.
+
+#### Scope
+
+
+#### Reboot Games
 
 #### Structure
 
-Reboot Games two levels of 
+Reboot Games comprises of two levels of access, Teacher and Student. The two levels are coequal or equipotent in a Hierachy, exempt a few rules.
 
 
+#### Hardware & Software
 
-#### Overview
-
-
-#### Policy Procedure Review 
-
-This document is manually reviewed by the management team, proposed changes update the document.
+#### Change History
 
 
-the IT management team reviews this document and proposes changes to update the document. The QA Manager or designee incorporates the changes and provides the updated document to the Chief Information Officer for his or her review and approval. Each appendix is reviewed annually with this document. If the information in an appendix is changed between review periods, the date and approval of the changes contained in the appendix are noted on the appendix itself.
+#### [2] Identified Risks
+
+
+#### [3] Policies and Procedures
+
+Information management is a crucial component in modern business. The Creation, management and security for the computer and network systems on which Rebootgames resides is the responsibility of Reboot's staff or more specifically the Information Technology department. To better fulfill the duties and responsibilities inherent in that responsibility, the department has created these policies and procedures.
+
