@@ -45,7 +45,7 @@ This documentation is meant to be read by the employees under the organisation R
 
 Reboot Games comprises of two levels of access, Tutor and Student. The two levels are coequal or equipotent in a Hierachy, exempt a few rules.  The numerical value of tutors tallys to three, whilst the number of students amounts to thirteen.  
 
-#### Hardware & Software
+#### Hardware & Software 
 
 LG Monitor
 
