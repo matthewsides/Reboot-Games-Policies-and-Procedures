@@ -49,7 +49,7 @@ Reboot Games comprises of two levels of access, Tutor and Student. The two level
 
 LG Monitor
 
-Dell System
+System - DELL XPS 8920 3GHz i5-7400 Tower Black PC HN7RP
 
 OS - Windows 10 - Edition Enterprise 2016 LTSB
 
