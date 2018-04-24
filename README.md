@@ -1,4 +1,4 @@
 ```diff
-### - Reboot Games Policies and Procedures
+ - Reboot Games Policies and Procedures
 
 ```
