@@ -43,7 +43,7 @@ This documentation is meant to be read by the employees under the organisation R
 
 #### Structure
 
-Reboot Games comprises of two levels of access, Tutor and Student. The two levels are coequal or equipotent in a Hierachy, exempt a few rules.  The numerical value of tutors tallys to three, whilst the number of students amounts to thirteen.  
+Reboot Games comprises of two levels of access, Tutor and Student. The two levels are coequal or equipotent in a Hierachy, exempt a few rules.  The amount of tutors tally to three, whilst the number of students amounts to thirteen.  
 
 #### Hardware & Software 
 
