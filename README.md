@@ -33,7 +33,9 @@ structure number of staff
 some idea of hardware software
 
  #### [1] Introduction
-
+ 
+This document sets out the Policy and Procedures for Reboot Games for the protection of its Employees, systems, intelectual property and defining baseline responsibilities for Reboot games security, equipment and file storage."Systems" refers to the IT network, hardware including portable media, system and application software, communication components including telephone and WAN systems,
+documentation, physical environment and other information assets. It does not include IT systems not connected to Reboot Games.
 
 #### Scope
 
@@ -64,6 +66,14 @@ System type - 64-bit operating system, x64-based processor
 
 #### [2] Identified Risks
 
+
+Physical 
+Human
+Leaks 
+Internal 
+External
+Software based risked
+Social engineering 
 
 #### [3] Policies and Procedures
 
